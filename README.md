@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**muhammad-saleh/muhammad-saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 My name is Saleh, I'm a Software Engineer at Udacity
 
-Here are some ideas to get you started:
+💻 I work with:
+- JavaScript and TypeScript
+- HTML/CSS
+- React
+- GraphQL
+and some experience in Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Get in touch
+- LinkedIn: https://www.linkedin.com/in/muhammadsaleheg/
+- Twitter: https://twitter.com/m_saleh_eg
