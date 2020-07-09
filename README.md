@@ -8,7 +8,7 @@
 - HTML/CSS
 - React
 - GraphQL
-and some experience in Go
+- and some experience in Go
 
 
 ## Get in touch
