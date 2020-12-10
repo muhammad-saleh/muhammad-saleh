@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🏢 My name is Saleh, I'm a Software Engineer at [Tempo](https://tempo.fit)
+🏢 My name is Mohamed Saleh, I'm a Software Engineer at [Tempo](https://tempo.fit)
 
 
 💻 I work with:
